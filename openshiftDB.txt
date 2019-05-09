@@ -1,0 +1,4 @@
+Username: root
+Password: admin
+Database Name: sampledb
+Connection URL: mysql://mysql:3306/
